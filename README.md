@@ -10,7 +10,7 @@ Pattern Recognition and Machine Learning - Christopher M. Bishop
 [Dive into Deep Learning - 阿斯顿·张，李沐](http://zh.d2l.ai/)
 
 ### 博文
-[ApacheCN](https://home.apachecn.org/#/docs/tree/README)
+[ApacheCN 人工智能知识树](https://home.apachecn.org/#/docs/tree/README)
 
 [机器学习原理](https://shunliz.gitbooks.io/machine-learning/content/)
 
