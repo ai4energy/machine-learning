@@ -7,7 +7,7 @@ Pattern Recognition and Machine Learning - Christopher M. Bishop
 
 机器学习 - 周志华
 
-[Dive into DL TensorFlow2.0 -阿斯顿·张，李沐](http://zh.d2l.ai/)
+[Dive into Deep Learning -阿斯顿·张，李沐](http://zh.d2l.ai/)
 
 ### 博文
 [ApacheCN](https://home.apachecn.org/#/docs/tree/README)
